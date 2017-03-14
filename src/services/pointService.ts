@@ -64,7 +64,7 @@ export class PointService {
           en: "",
           cs: "Bývalý pivovar a poplužný dvůr byl v roce 1847 přestavěn na klasicistní zámek. Momentálně nový majitelé zámek renovují ( po období kdy sloužil jak budova státního statku ). Zámek již slouží jako výstavní a divadelní síň, v opravených částech dále expozice k historii zámku a okolí. Kavárnička s vinotékou. Na nádvoří se pořádají trhy regionálních produktů. Nedaleko zámku směrem na Veclov se nachází bizoní obora.<br/><br/>Leží na : cyklotrasách 1007, EV 13 a Fauna – flora."
         },
-        images: ["5.jpg", "5b.jpg"]
+        images: ["5b.jpg", "5.jpg"]
       }, {
         lat: 48.9872658, lng: 15.3175044,
         title: {
@@ -119,7 +119,7 @@ export class PointService {
           en: "",
           cs: "Zastávka úzkokolejky JHMD v části Nové Bystřice – Albeři. Od roku 1897 z Jindřichova Hradce do Nové Bystřice je v provozu úzkorozchodná vlaková doprava. Druhá trasa je Jindřichův Hradec – Obrataň.  V turistické sezoně jezdí romantické parní vlaky. V Albeři stojí za vidění kamenný železniční most, zámeček v Terezíně, bývalé textilní továrny, kaple a rekreační rybník Osika."
         },
-        images: ["10.jpg", "10b.jpg"]
+        images: ["10b.jpg", "10.jpg"]
       }, {
         lat: 49.0193181, lng: 15.1030886,
         title: {
@@ -130,7 +130,7 @@ export class PointService {
           en: "",
           cs: "Jihozápadní brána do České Kanady, hraniční městečko s Rakouskem a nejstarší sídlo jindřichohradecka. V městečku od roku 1897 konečná stanice  úzkokolejky JHMD. Pamětihodnosti městečka jsou zámek a zbytky městských hradeb, kostel sv. Petra a Pavla, morový sloup se sochou Nejsvětější Trojice, kašna se sochou sv. Lukáše, židovský hřbitov a kostel sv. Kateřiny. V prostorách bývalé textilní továrny muzeum veteránů s expozicí nejenom amerických aut. V Nové Bystřici je taky golfové hřiště, malá sjezdovka na Hradišti a výchozí bod zimních běžeckých tras."
         },
-        images: ["11.jpg", "11b.jpg"]
+        images: ["11b.jpg", "11.jpg"]
       }, {
         lat: 49.1437419, lng: 15.0029242,
         title: {
@@ -174,7 +174,7 @@ export class PointService {
           en: "",
           cs: "Netypický, kuriosní, fotogenický prostě jeden z nejhezčích žulových masivů České Kanady.  Nachází se v lesích nad osadou Terezín a Nový Svět. Z Valtínova k masivu vede NS na Ďáblovou prdel."
         },
-        images: ["15.jpg", "15b.jpg"]
+        images: ["15b.jpg", "15.jpg"]
       }, {
         lat: 49.0876472, lng: 15.2711022,
         title: {
@@ -185,7 +185,7 @@ export class PointService {
           en: "",
           cs: "Nad vesnicí Valtínov s novogotickým kostelem Panny Marie a Českobratrským evangelickým kostelem na Havlově hoře stojí od roku 2013 dřevěná rozhledna. Pod rozhlednou byl vybudován naučný lesopark s bludištěm, dětské hřiště, tajná chodba a dřevěné hradby. <br/><br/>Leží na : Naučné stezce na Ďáblovou prdel z Valtínova. Rozhledna je značena i z osad Nový Svět a Terezín."
         },
-        images: ["16.jpg", "16b.jpg"]
+        images: ["16b.jpg", "16.jpg"]
       }, {
         lat: 49.0945817, lng: 15.0888514,
         title: {
@@ -240,7 +240,7 @@ export class PointService {
           en: "",
           cs: "Nejvyšší bod České Kanady se tyčí 4km od městečka Kunžaku. Na žulovém bloku je umístěn od roku 1842 železobetonový 6,3m vysoký pilíř. ( trigonometrický bod ). Dříve se na tomto vrcholu sbíhaly hranice pražské, olomoucké a pasovské diecéze. Jižně od skály leží malebná osada Kaproun, kde na zastávce JHMD vystoupil Jára Cimrman.<br/><br/>Leží na : žluté turistické trase z Kunžaku, červené turistické trase Dačice – Kunžak a Staré Město pod Landštejnem. Cyklotrase 1116."
         },
-        images: ["21.jpg", "21b.jpg"]
+        images: ["21b.jpg", "21.jpg"]
       }, {
         lat: 49.0614600, lng: 15.2669181,
         title: {
@@ -328,7 +328,7 @@ export class PointService {
           en: "",
           cs: "V místě bývalého renesančního panského statku a ovčína přímo pod hradem Landštejn bylo vybudováno rychlé občerstvení, které se využívalo pro koncerty.<br/><br/>Nyní je tu areál hotelu s 11 pokoji (37 lůžek) , který poskytuje široké spektrum služeb a restaurace zaměřenou na českou kuchyni a rybí speciality.<br/><br/>www.landstejn.cz"
         },
-        images: []
+        images: ["29.jpg", "29a.jpg"]
       }, {
         lat: 49.0045333, lng: 15.2534533,
         title: {
@@ -339,7 +339,7 @@ export class PointService {
           en: "",
           cs: "V centru obce info-kavárna s wifi, kde Vám poskytneme jak informace, propagační materiály tak i malé občerstvení s kávou, točené pivo na zahrádce.<br/><br/>Připravíme Vám poznávání České Kanady na míru.<br/><br/>Staré Město pod Landštejnem č.p. 39, 378 82<br/><br/>www.ceskakanadazive.cz"
         },
-        images: []
+        images: ["30.jpg"]
       }
     ];
   }

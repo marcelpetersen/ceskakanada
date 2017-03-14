@@ -32,8 +32,9 @@ export class MyApp {
       if (lang) {
         this.translate.use(lang);
       } else {
-        var userLang = navigator.language.split('-')[0];
-        userLang = /(en|cs)/gi.test(userLang) ? userLang : 'cs';
+        var userLang = 'cs';
+        // var userLang = navigator.language.split('-')[0];
+        // userLang = /(en|cs)/gi.test(userLang) ? userLang : 'cs';
         this.localStorageService.set("lang", userLang);
         this.translate.use(userLang);
       }

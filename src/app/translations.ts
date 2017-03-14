@@ -8,12 +8,12 @@ export var APP_TRANSLATIONS: { [key: string]: { [key: string]: string } } = {
         cs: 'České Kanadě'
     },
     street: {
-        en: "Dobrovskeho 1",
-        cs: 'Dobrovského 1'
+        en: "Staré Město pod Landštejnem 39",
+        cs: 'Staré Město pod Landštejnem 39'
     },
     city: {
-        en: "Jindrichuv Hradec",
-        cs: "Jindřichův Hradec"
+        en: "378 82",
+        cs: "378 82"
     },
     phone: {
         en: "Phone",
@@ -28,7 +28,7 @@ export var APP_TRANSLATIONS: { [key: string]: { [key: string]: string } } = {
         cs: 'Místa'
     },
     footerTitle: {
-        en: "Agentura Česká Kanada, z.s.",
-        cs: 'Agentura Česká Kanada, z.s.'
+        en: "ČESKÁ KANADA ŽIVĚ",
+        cs: 'ČESKÁ KANADA ŽIVĚ'
     }
 };
