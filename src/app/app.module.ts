@@ -32,7 +32,9 @@ export class myTranslationLoader implements TranslateLoader {
   ],
   imports: [
     TranslateModule.forRoot({ provide: TranslateLoader, useClass: myTranslationLoader }),
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp, {
+      backButtonText: ''
+    })
   ],
   bootstrap: [IonicApp],
   entryComponents: [
