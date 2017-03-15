@@ -8,7 +8,9 @@
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build --prod",
     "ionic:build": "ionic-app-scripts build",
-    "ionic:serve": "ionic-app-scripts serve"
+    "ionic:serve": "ionic-app-scripts serve",
+    "jarsigner": "jarsigner -storepass UsuProstejov2016 -keypass UsuProstejov2016 -sigalg SHA1withRSA -digestalg SHA1 -keystore usu-release-key.keystore ./platforms/android/build/outputs/apk/android-release-unsigned.apk alias_name",
+    "zipalign": "zipalign 4 ./platforms/android/build/outputs/apk/android-release-unsigned.apk ./signed.apk"
   },
   "dependencies": {
     "@angular/common": "2.2.1",
